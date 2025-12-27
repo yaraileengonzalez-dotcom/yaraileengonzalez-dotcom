@@ -1,4 +1,4 @@
 with:
   image_path: './assets/tryhackme-badge.png'
-  username: ${{ https://tryhackme.com/p/yg3721 }}
+  username: ${{ yg3721 }}
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
